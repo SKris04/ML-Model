@@ -1,3 +1,3 @@
 # ML-Model
 Machine Learning Model
-These machine learning models trains on the dataset and then it will solve the problem accordingly
+These machine learning models train on the datasets and then it will solve the problems accordingly
